@@ -1,4 +1,4 @@
-var inherits = require('inherits')
+var inherits = require('inherits/inherits_browser')
 var Hash = require('./hash')
 
 var K = [

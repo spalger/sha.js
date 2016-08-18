@@ -7,7 +7,7 @@
  * See http://pajhome.org.uk/crypt/md5 for details.
  */
 
-var inherits = require('inherits')
+var inherits = require('inherits/inherits_browser')
 var Hash = require('./hash')
 
 var K = [

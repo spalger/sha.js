@@ -6,7 +6,7 @@
  *
  */
 
-var inherits = require('inherits')
+var inherits = require('inherits/inherits_browser')
 var Sha256 = require('./sha256')
 var Hash = require('./hash')
 
