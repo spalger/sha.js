@@ -1,7 +1,7 @@
 {
   "name": "sha.js-browser",
   "description": "Fork of sha.js, but for the browser only, for people with broken build systems",
-  "version": "2.4.5-browser",
+  "version": "2.4.5-browser-patch1",
   "homepage": "https://github.com/spalger/sha.js.git",
   "repository": {
     "type": "git",
